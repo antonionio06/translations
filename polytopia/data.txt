@@ -73,8 +73,8 @@ gamesettings.size.tiny;Tiny;lili;
 gamesettings.size.normal;Normal;meso;
 gamesettings.size.large;Large;suli;
 gamesettings.size.disabled;Not Available;open ala;?
-gamesettings.network;Network;0;???
-gamesettings.network.online;Online;0;???
+gamesettings.network;Network;kulupu;??
+gamesettings.network.online;Online;musi kulupu weka;?
 gamesettings.network.passplay;Pass & Play;musi kulupu pana;?
 gamesettings.online.disabled;Online is locked;sina ken ala musi lon linluwi;?
 gamesettings.online.disabled.info;There are some things you need to fix to play online multiplayer;sina wile musi kulupu la o pona e ijo ni: ;? not sure about ijo ni
@@ -93,7 +93,7 @@ gamemode.domination;Domination;awen wan;
 gamemode.domination.description.button;Play until there is only one tribe left, with no time limit.;jan mute li awen la tenpo li mute. jan wan li awen la musi li pini;
 gamemode.domination.description;Wipe all the other tribes from the face of the square. There can be only one.;o moli e kulupu jan ante. kulupu wan ken awen taso.;
 gamemode.domination.win;You have defeated all the other tribes and unified the entire square!;sina moli e kulupu ante ale la, ma li wan!;
-gamemode.domination.loss;Your last city was lost, you have been defeated.;ma tomo pini sina li weka la, kulupu sina li moli;
+gamemode.domination.loss;Your last city was lost, you have been defeated.;ma tomo pini sina li lanpan la, kulupu sina li moli;
 gamemode.glory.caps;GLORY;NANPA PONA;???
 gamemode.glory;Glory;nanpa pona;
 gamemode.glory.description;First to reach {0} points win;jan wan pi nanpa {0} li pona mute;
@@ -102,56 +102,56 @@ gamemode.might.caps;MIGHT;UTALA;
 gamemode.might;Might;utala;
 gamemode.might.description;Capture all capitals to win;sina jo e ma tomo lawa ale la sina pona mute;
 gamemode.might.win;All capitals were captured;tomo lawa ale li sina;
-gamemode.death;Your last city was lost, you have been defeated.;sina weka;
-world.intro.title;Mighty Leader!;0;
-world.intro.text;You have been chosen to rule the {0} tribe. Explore the world and expand your empire, but watch out for the other tribes.;0;
-world.intro.objective;Objective: {0};0;
-world.turn.end;End Turn;0;
-world.turn.end.question;End your turn?;0;
-world.turn.end.confirm;Confirm;0;
-world.turn.next;Next Turn;0;
-world.turn.finish;Finish Game;0;
-world.turn.nomoves;No more moves available, end turn;0;
-world.turn.start;START;0;
-world.turn.exit;Exit;0;
-world.turn.waiting;Waiting for {0} to play...;0;
-world.turn.waiting.unknown;Waiting for an unknown tribe to play...;0;
-world.turn.ready;Tap save when ready;0;
-world.turn.your;Your turn;0;
-world.turn.remaining;{0} turns left;0;
-world.turn.last;Last turn!;0;
-world.turn.replaying;Replaying...;0;
-world.unit.info.from;From the city of {0}.;0;
-world.unit.veteran;This unit is a veteran.;0;
-world.unit.veteran.progress;{0}/{1} to become a veteran.;0;
-world.unit.ability;Unit Ability;0;
-world.unit.health;Health;0;
-world.unit.attack;Attack;0;
-world.unit.defence;Defence;0;
-world.unit.movement;Movement;0;
-world.unit.range;Range;0;
-world.unit.disembark.title;Leave {0};0;
+gamemode.death;Your last city was lost, you have been defeated.;ma tomo pini sina li lanpan la, kulupu sina li moli;
+world.intro.title;Mighty Leader!;jan lawa o!;
+world.intro.text;You have been chosen to rule the {0} tribe. Explore the world and expand your empire, but watch out for the other tribes.;sina lawe e kulupu {0}. o kama sona e ma o suli e ma sina, taso jan ante li lon kin.;?? double o or li?
+world.intro.objective;Objective: {0};wile: {0};?
+world.turn.end;End Turn;o pini e tawa sina;
+world.turn.end.question;End your turn?;sina wile ala wile pini e tawa sina?;
+world.turn.end.confirm;Confirm;o pona e anu;??
+world.turn.next;Next Turn;tawa kama;?
+world.turn.finish;Finish Game;o pini e musi;
+world.turn.nomoves;No more moves available, end turn;tawa ala li awen. sina pini e tawa anu seme?;?
+world.turn.start;START;O OPEN;
+world.turn.exit;Exit;o tawa;?
+world.turn.waiting;Waiting for {0} to play...;tenpo ni la, kulupu pi jan {0} li musi...;
+world.turn.waiting.unknown;Waiting for an unknown tribe to play...;tenpo ni la, kulupu jan pi sona ala li musi...;
+world.turn.ready;Tap save when ready;sina wile la, o pilin e (nena save?);???
+world.turn.your;Your turn;tawa li sina;
+world.turn.remaining;{0} turns left;tawa {0} li awen;
+world.turn.last;Last turn!;tawa pini!;
+world.turn.replaying;Replaying...;mi musi sin...;???
+world.unit.info.from;From the city of {0}.;tan ma tomo {0};
+world.unit.veteran;This unit is a veteran.;jan ni li jan utala awen;
+world.unit.veteran.progress;{0}/{1} to become a veteran.;pana moli: {0} tan {1};???
+world.unit.ability;Unit Ability;ken jan;??
+world.unit.health;Health;lon;?
+world.unit.attack;Attack;wawa utala;
+world.unit.defence;Defence;wawa awen;
+world.unit.movement;Movement;weka tawa;
+world.unit.range;Range;weka utala;
+world.unit.disembark.title;Leave {0};0;???
 world.unit.disembark.message;Disembarking this unit will dismantle your {0}. Do you wish to proceed?;0;
-world.unit.evolve;Your unit has grown to a {0}!;0;
-world.unit.evolve.title;Unit Growth;0;
-world.unit.dissolved;Your unit has dissolved;0;
-world.building.info;The city of {0};0;
-world.building.village;Village;0;
-world.building.capture.ready;Will be ready to capture next turn;0;
-world.building.capture.ready.title;Entering {0}!;0;
-world.building.capture.warning;Capturing will be completed next turn if you don't stop them.;0;
-world.building.capture.warning.title;{0} is under siege!;0;
-world.attract.sanctuary;Your sanctuary has attracted a wild animal!;0;
-world.loading;LOADING {0}%;0;
-world.suggestion.title;Here's a Tip!;0;
-world.suggestion.message;You should {0};0;
-world.suggestion.disable;(These suggestions can be switched off in the menu);0;
-world.ranks;1st,2nd,3rd,4th,5th,6th,7th,8th,9th,10th,11th,12th;0;
-world.road.connected.title;New trade route!;0;
-world.road.connected.message;{0} is now connected to your capital!;0;
-world.tech.new.title;New Tech!;0;
-world.tech.new.message;You have discovered the secret of {0};0;
-world.reward.levelup;{0} level up!;0;
+world.unit.evolve;Your unit has grown to a {0}!;jan ni li kama {0};??
+world.unit.evolve.title;Unit Growth;suli jan;
+world.unit.dissolved;Your unit has dissolved;0;???
+world.building.info;The city of {0};ma tomo {0};
+world.building.village;Village;ma tomo lili;
+world.building.capture.ready;Will be ready to capture next turn;tawa kama la sina ken lanpan e ma tomo ni.;
+world.building.capture.ready.title;Entering {0}!;sina kama lon ma tomo {0};
+world.building.capture.warning;Capturing will be completed next turn if you don't stop them.;sina pini ala e pali ona la ona li lanpan e ma tomo ni;
+world.building.capture.warning.title;{0} is under siege!;utala li lon ma tomo {0};
+world.attract.sanctuary;Your sanctuary has attracted a wild animal!;tomo sewi sina la soweli li kama;??
+world.loading;LOADING {0}%;ma li kama lon {0}%;?
+world.suggestion.title;Here's a Tip!;sina ken pali e ni:;??
+world.suggestion.message;You should {0};sina wile {0};?
+world.suggestion.disable;(These suggestions can be switched off in the menu);(sina ken pini e toki ni lon lipu lawa);
+world.ranks;1st,2nd,3rd,4th,5th,6th,7th,8th,9th,10th,11th,12th;np1,np2,np3,np4,np5,np6,np7,np8,np9,np10,np11,np12;? np anu seme?
+world.road.connected.title;New trade route!;nasin esun sin li lon!;
+world.road.connected.message;{0} is now connected to your capital!;tenpo ni la, ma tomo {0} li jo e nasin tawa ma tomo lawa sina!;
+world.tech.new.title;New Tech!;sona sin!;
+world.tech.new.message;You have discovered the secret of {0};sina kama sona e {0};
+world.reward.levelup;{0} level up!;{0} li kama pona!;
 world.reward.building;You can now construct {0}! This epic monument will bring wealth and glory to the nearest city.;0;
 world.reward.building.title;{0} was completed;0;
 world.meet.tribe;You meet {0};0;
